@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Camila. But you can call me Cah!!! 
 
 
-<a href= "https://www.linkedin.com/in/camila-couto-5336142b/">
+<a href= "https://www.linkedin.com/in/camila-couto-5336142b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
