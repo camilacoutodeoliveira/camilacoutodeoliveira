@@ -5,7 +5,7 @@
 
 I'm from 🇧🇷 ;<br>
 I'm a Front-end JAVASCRIPT and C# Developer;<br>
-I've been working as Developer since 2017;<br>
+I've been working as Software Developer since 2017;<br>
 
 
 
