@@ -2,9 +2,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-couto-5336142b/)
 
-
-I'm from 🇧🇷 ;<br>
-I'm a Front-end JAVASCRIPT and C# Developer;<br>
+I'm a Software Developer;<br>
 I've been working as Software Developer since 2017;<br>
 
 
