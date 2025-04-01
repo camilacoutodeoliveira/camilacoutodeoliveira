@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Camila. But you can call me Cah!!! 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-couto-5336142b/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.[linkedin.com/in/camila-couto-5336142b/](https://www.linkedin.com/in/camila-couto-oliveira/))
 
 I'm a Software Developer;<br>
 I've been working as Software Developer since 2017;<br>
